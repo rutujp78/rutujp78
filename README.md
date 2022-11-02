@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📫 How to reach me **panbuderutuj6@gmail.comm**
+- 📫 How to reach me **panbuderutuj6@gmail.com**
 
 - ⚡ Fun fact **Skipped some classes to play CSGO :)**
 
