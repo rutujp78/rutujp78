@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rutuj Panbude</h1>
 <h3 align="center">A Gamer who got into Computer Science and Engineering</h3>
+<img align="right" alt="Coding" width="400" src="./home-main.svg">
+
+
 
 - 🌱 I’m currently learning **Full Stack Web Development with MERN Stack**
 
