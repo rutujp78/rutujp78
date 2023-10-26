@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujp78&show_icons=true&locale=en&theme=dark" alt="rutujp78" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujp78&theme=dark" alt="rutujp78" /></p>
+
+[![An image of @rutujp78's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rutujp78)](https://holopin.io/@rutujp78)
