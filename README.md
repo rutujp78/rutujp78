@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **panbuderutuj6@gmail.com**
 
-- ⚡ Fun fact **Skipped some classes to play CSGO :)**
+- ⚡ Fun fact **Can use array of objects to print statement without for loop :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
