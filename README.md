@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning **Full Stack Web Development with MERN Stack**
+- 🌱 I’m currently learning **Backend development**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **panbuderutuj6@gmail.com**
 
